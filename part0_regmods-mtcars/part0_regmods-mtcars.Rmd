@@ -1,15 +1,15 @@
 ---
 title: "Automatic or Manual transmission better for MPG"
-author: "ludo ben"
-date: "Nov, 2014"
+author: "Ahmed Murad"
+date: "Feb, 2016"
 output:
-  html_document:
-    number_sections: yes
-    toc: yes
+  word_document: default
   pdf_document:
     number_sections: yes
     toc: yes
-  word_document: default
+  html_document:
+    number_sections: yes
+    toc: yes
 ---
 
 # Executive Summary

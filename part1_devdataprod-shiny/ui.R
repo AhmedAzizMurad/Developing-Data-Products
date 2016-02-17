@@ -1,7 +1,7 @@
 library(shiny)
 
 shinyUI(
-  navbarPage("Just a Shiny Application",
+  navbarPage("DevelopDataProducts_CourseProject",
             tabPanel("Analysis",
                       fluidPage(
                         titlePanel("The relationship between variables and miles per gallon (MPG)"),
@@ -75,10 +75,10 @@ shinyUI(
                       p("Henderson and Velleman (1981), Building multiple regression models interactively. Biometrics, 37, 391–411.")
              ),
              tabPanel("Go back to my Github repository",
-                      a("https://github.com/ludovicbenistant?tab=repositories"),
+                      a("https://github.com/AhmedAzizMurad?tab=repositories"),
                       hr(),
                       h2("I hope you like the Shiny App"),
-                      h2("The name of the repositorie is DataProducts")
+                      h2("The name of the repositorie is Developing-Data-Products")
              )
   )
 )
